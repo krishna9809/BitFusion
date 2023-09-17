@@ -355,7 +355,7 @@ a{
 
 .page-header{
   color: var(--bgOrange);
-  font-size: 90px;
+  font-size: 60px;
   text-align: center;
   padding-top: 30px;
 }
@@ -413,6 +413,9 @@ a{
   opacity: 100;
 }
 
+.ser{
+  font-size: 90px;
+}
 
 
 
@@ -805,7 +808,7 @@ footer{
 }
 
 .row{
-  background: #ffffff;
+  background: #f8f8f8;
   box-shadow: 18px 0px 87px 0px rgb(10 15 70 / 7%);
   border-radius: 12px;
   padding: 12px;
